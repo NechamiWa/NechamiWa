@@ -1,4 +1,4 @@
-<!-- Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Nechami 👩‍💻
+<!-- Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Nechama 👩‍💻
 
 An analytical FullStack developer, specializing in the development of complex systems with an emphasis on advanced performance on the client side and on the server side.
 Able to learn new technologies independently. Result-oriented, with the ability to plan and execute tasks accurately and efficiently.
